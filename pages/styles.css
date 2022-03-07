@@ -1,0 +1,67 @@
+
+   
+body{
+    z-index: 1;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(../Untitled\ design\ \(1\).png);
+    background-attachment:scroll;
+    background-size:cover;
+    
+    background-repeat:repeat;
+}
+img{
+    display:inline;
+    width:auto;
+    
+    position: sticky;
+    top: 10px;
+    right: 10px
+    z-index: -1;
+    place-content: right;
+    
+    
+    
+}
+ul{
+    list-style-type: "-";
+    
+}
+ol{
+    list-style: lower-roman;
+}
+.BACK{
+    font-size: 25px;
+    font-weight: 200;
+    color: rgb(167, 51, 119);
+}
+.r{
+    color: rgb(220, 20, 70);
+}
+.recipes{
+    
+    font-size: 40px;
+}
+h1{
+    border: 5px dotted cadetblue;
+    text-align: center;
+    color: #d86e88;
+    font-size: 100px;
+    position: relative;
+}
+h2{
+    font-size: 70px;
+    font-style: italic;
+}
+
+main{
+    font-size: large;
+}
+
+.ingredients{
+    font-size: 30px;
+    font-weight: 100;
+}
+.steps{
+    font-size: 30px;
+    font-weight: 100;
+}
