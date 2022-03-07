@@ -10,7 +10,7 @@ body{
     background-repeat:repeat;
 }
 img{
-    display:inline;
+    display:block;
     width:auto;
     
     position: fixed;
