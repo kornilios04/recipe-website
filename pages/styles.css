@@ -13,9 +13,9 @@ img{
     display:inline;
     width:auto;
     
-    position: sticky;
-    top: 10px;
-    right: 10px
+    position: fixed;
+    top: 1px;
+    right: 1px
     z-index: -1;
     place-content: right;
     
